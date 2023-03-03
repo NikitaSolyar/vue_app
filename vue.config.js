@@ -1,4 +1,4 @@
 /*eslint-disable */
 module.exports = {
-  publicPath: '/vue-app'
+  publicPath: '/vue_app'
 }
